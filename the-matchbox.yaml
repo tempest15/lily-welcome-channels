@@ -1,5 +1,5 @@
 - type: text
-  text: // todo
+  text: todo add a fun little image
 
 - type: embed
 
@@ -10,15 +10,17 @@
         Welcome to the matchbox, the official server for the musical artist beetlebug! 
         This is a space to be creative, make friends and hang out with people with similar interests :)
 
+
         Please make sure you have read and understood the rules and information below before 
         continuing to the rest of the server. These rules are primarily based on the rules of 
         [The Quilt Community](https://quiltmc.org/en/community/rules/).
+        
         
         **Not knowing the rules is not an excuse to break them.** If you have any confusion about the rules,
         please ask in 
 
 - type: text
-  text: // todo image
+  text: https://cdn.discordapp.com/attachments/1030561801848496258/1036442844480667688/matchbox-rules.jpg
 
 - type: rules
 
@@ -40,7 +42,7 @@
       Moderators are here to keep the community safe and make sure everything runs smoothly. 
       In order to do their jobs effectively, they need you to cooperate with them. 
       Please take requests from moderators seriously. If you have an issue with a moderation action, 
-      please #message-a-mod or DM an admin.
+      please <#1030479861724237974> or DM an admin.
     Keep chat clean: >
       Do not spam text, images, user mentions, emojis, reactions, or anything else. 
       Do not post offensive, obscene, politically charged, or sexually explicit content. 
@@ -63,21 +65,28 @@
       - Please do not ping or DM beetlebug. They are very busy.
       If you need to contact them about a business matter, please use beetleboyinbox@gmail.com
       
+      
       - These rules apply to non-message mediums as well. This includes nicknames, avatars, Discord bios, 
-        and custom/rich statuses.
+        and custom/rich statuses. Manually changing nicknames has been disabled to prevent hoisting. 
+      If you'd like to request a nickname you can use <@876278900836139008>'s `/nickname request` command.
+      
       
       - If you have been subject to a moderation action you'd like to appeal, please DM an admin.
+      
+      
+      - If you have any feedback about these rules, or the server in general, 
+      please let us know in <#1030479838500376657>
 
 - type: embed
   embeds:
     - title: Reporting
 
       description: >
-        To report rule breaking, please mention the `@Moderators` role. 
+        To report rule breaking, please mention the <@&1030489835745587291> role. 
         You may also right click or long press on a message, navigate to the apps menu, 
-        and select the `Report` option. In addition, you can #message-a-mod. 
+        and select the `Report` option. In addition, you can <#1030479861724237974>. 
         Please do not DM individual moderators about rule breaking behavior. 
-        If you have a concern with a moderator's behavior, DM an admin. 
+        If you have a concern with a moderator's behavior, DM one of our <@&1030505192858341467>. 
         Any private reports will be treated confidentially.
 
 - type: embed
@@ -107,13 +116,44 @@
         If you want to see what system/account a specific message is from, 
         you can react to the message using :question:.
 
+
         We ask that only people who are part of plural systems, or utilise PluralKit as a mental health aid, 
         make use of it. To those using PluralKit, we recommend that you put your system tag into your display name, 
         to make things easier to understand. 
 
-        Any attacking of PluralKit users counts as discrimination and will be moderated harshly.
+- type: roles
 
-# todo roles
+  id: pronoun-roles
+
+  title: "Pronoun Selection"
+  description: "Click the button below to add or remove any of the following pronoun roles. 
+  If you would like another pronoun role added, please tell us in <#1030479838500376657>"
+  template: "**{NAME}**: {DESCRIPTION}\n"
+
+  roles:
+    1030941411387920414:
+      description: "He let me play his guitar."
+
+    1030941412394553474:
+      description: "She drew me a lovely flower with her markers"
+
+    1030941413443113000:
+      description: "They showed me a cool picture of a frog on their phone"
+
+    1030941414437163058:
+      description: "It handed me a lovely flower from its bag"
+
+    1030941415431221379:
+      description: "Alice and I played Minecraft at Alice's house with Alice's sibling"
+
+    1030941416236523551:
+      description: "Fae and I took a ride in eir car to his house"
+
+    1030941417536757760:
+      description: "I asked Alice what Alice's pronouns are and Alice said she/her"
+
+    1036446197306642433:
+      description: "Alice is a member of a plural system, so I looked on PluralKit to see Alice's pronouns"
 
 - type: links
 
@@ -128,7 +168,6 @@
     Apple Music: https://music.apple.com/gb/artist/beetlebug/1499874859
     YouTube: https://www.youtube.com/channel/UCJFS6lubqFVzNH-S3Z4A96Q
     TikTok: https://tiktok.com/@beetlebugyt
-    Email: mailto:beetleboyinbox@gmail.com
     Discord: https://discord.gg/Sc8KTWS4BZ
 
 - type: threads
