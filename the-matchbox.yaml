@@ -1,0 +1,146 @@
+- type: text
+  text: // todo
+
+- type: embed
+
+  embeds:
+    - title: Welcome to the matchbox!
+
+      description: >
+        Welcome to the matchbox, the official server for the musical artist beetlebug! 
+        This is a space to be creative, make friends and hang out with people with similar interests :)
+
+        Please make sure you have read and understood the rules and information below before 
+        continuing to the rest of the server. These rules are primarily based on the rules of 
+        [The Quilt Community](https://quiltmc.org/en/community/rules/).
+        
+        **Not knowing the rules is not an excuse to break them.** If you have any confusion about the rules,
+        please ask in 
+
+- type: text
+  text: // todo image
+
+- type: rules
+
+  rules:
+    Be decent to one another: >
+      Any and all forms of bigotry, harassment, doxxing, exclusionary or otherwise abusive behavior will not be 
+      tolerated. Excessive rudeness, impatience, and hostility are not welcome. 
+      Do not rage out or make personal attacks against other people. 
+      Do not encourage users to brigade/raid other communities. Do not impersonate other people, bots, or companies.
+    Follow Discord's rules: >
+      As this is a primarily a Discord based community, it's important to be aware of and follow Discord's 
+      [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). 
+      Notable, you must be 13 or older. Anyone found to be younger than 13 will be banned immediately.
+    Try to speak English: >
+      The common language in our community is English, but we understand that not everyone speaks English at the same
+      level. Try to speak English to the best of your ability, and don't worry if you need to use translation tools. We
+      will not tolerate making fun of people for poor English.
+    Listen to and respect moderators: >
+      Moderators are here to keep the community safe and make sure everything runs smoothly. 
+      In order to do their jobs effectively, they need you to cooperate with them. 
+      Please take requests from moderators seriously. If you have an issue with a moderation action, 
+      please #message-a-mod or DM an admin.
+    Keep chat clean: >
+      Do not spam text, images, user mentions, emojis, reactions, or anything else. 
+      Do not post offensive, obscene, politically charged, or sexually explicit content. 
+      Uploading or directly linking to executable files is not allowed without prior approval. 
+      When uploading large batches of images, consider using a paste site. 
+      Please use fonts that are easy to read and can be typed on an english keyboard.
+    Follow the channel topic and don't derail discussions: >
+      Many of our channels have specific topics, and we'd ask that you stick to them. 
+      We understand that conversations may span multiple topics and move onto something else, 
+      but we may ask you to move if a conversation leaves the scope of a channel’s topic. 
+      Additionally, when entering a channel with an active discussion, 
+      please be mindful of that discussion and do not try to derail it (by talking over it, for example). 
+      We have multiple general (off-topic) channels you can use if a channel is busy.
+    Don’t import drama or controversy from other communities: >
+      We aim to be a safe place for everyone — regardless of their background, identity, or other defining trait. 
+      In order to do this, it’s important that people are allowed to interact without having to worry about 
+      controversies from other communities that they may be seeking refuge from. If you’d like to discuss 
+      controversies with other users, start a DM group or join a community that’s designed to handle that discussion.
+    Additional notes: >
+      - Please do not ping or DM beetlebug. They are very busy.
+      If you need to contact them about a business matter, please use beetleboyinbox@gmail.com
+      
+      - These rules apply to non-message mediums as well. This includes nicknames, avatars, Discord bios, 
+        and custom/rich statuses.
+      
+      - If you have been subject to a moderation action you'd like to appeal, please DM an admin.
+
+- type: embed
+  embeds:
+    - title: Reporting
+
+      description: >
+        To report rule breaking, please mention the `@Moderators` role. 
+        You may also right click or long press on a message, navigate to the apps menu, 
+        and select the `Report` option. In addition, you can #message-a-mod. 
+        Please do not DM individual moderators about rule breaking behavior. 
+        If you have a concern with a moderator's behavior, DM an admin. 
+        Any private reports will be treated confidentially.
+
+- type: embed
+  embeds:
+    - title: Discussion of sensitive/triggering topics
+
+      description: >
+        We ask you to kindly refrain from discussing topics that may be sensitive or triggering to others in this 
+        server. We are sadly not able to provide a space to discuss these topics, or for venting/trauma dumping.
+        We've placed this restriction because such situations can easily get out of hand, and are also difficult
+        on the mental health of the moderation team.
+        
+        
+        However, you don't have to struggle alone. You may absolutely ask if someone is willing to DM about an 
+        issue you are facing. You can find additional mental health resources at https://checkpointorg.com/global/ and 
+        https://thehaven.support/. If you have additional resources you'd like us to link here, please share them.
+
+- type: embed
+  embeds:
+    - title: Plurality & PluralKit
+
+      description: >
+        This server makes use of the Discord bot [PluralKit](https://pluralkit.me/) as an accessibility tool.
+        [Plural systems](https://morethanone.info/), or groups residing inside the same physical brain, may use 
+        PluralKit to make their message appear with the correct profile information. 
+        These messages show up with a bot tag due to Discord's limitations. 
+        If you want to see what system/account a specific message is from, 
+        you can react to the message using :question:.
+
+        We ask that only people who are part of plural systems, or utilise PluralKit as a mental health aid, 
+        make use of it. To those using PluralKit, we recommend that you put your system tag into your display name, 
+        to make things easier to understand. 
+
+        Any attacking of PluralKit users counts as discrimination and will be moderated harshly.
+
+# todo roles
+
+- type: links
+
+  title: Relevant beetlebug links
+
+  links:
+    Link tree: https://linktr.ee/auribug
+    Twitter: https://twitter.com/auribug
+    Instagram: https://instagram.com/auribug
+    Spotify: https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM?si=p4SidiNdQoeMBygOkvIrkQ
+    Soundcloud: https://soundcloud.com/user-429426833
+    Apple Music: https://music.apple.com/gb/artist/beetlebug/1499874859
+    YouTube: https://www.youtube.com/channel/UCJFS6lubqFVzNH-S3Z4A96Q
+    TikTok: https://tiktok.com/@beetlebugyt
+    Email: mailto:beetleboyinbox@gmail.com
+    Discord: https://discord.gg/Sc8KTWS4BZ
+
+- type: threads
+  mode: active
+  template: "**»** {EMOJI}[{NAME}]({URL}) | {ACTIVE_TIME}"
+  description: This is a list of the ten most-recently-active threads, sorted by the time they were last active.
+  archive_status_in_name: false
+  archived_emoji: "🔇"
+
+- type: threads
+  mode: newest
+  template: "**»** {EMOJI}[{NAME}]({URL}) | {CREATED_TIME}"
+  description: This is a list of the ten most-recently-created threads, sorted by their creation date.
+  archive_status_in_name: false
+  archived_emoji: "🔇"
