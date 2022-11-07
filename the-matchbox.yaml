@@ -37,7 +37,7 @@
       Moderators are here to keep the community safe and make sure everything runs smoothly. 
       In order to do their jobs effectively, they need you to cooperate with them. 
       Please take requests from moderators seriously. If you have an issue with a moderation action, 
-      please <#1030479861724237974> or DM an <@&1030505192858341467>.
+      please <#1030479861724237974> or DM one of our <@&1030505192858341467>.
     Keep chat clean: >
       Do not spam text, images, user mentions, emojis, reactions, or anything else. 
       Do not post offensive, obscene, politically charged, or sexually explicit content. 
@@ -60,14 +60,11 @@
       - Please do not ping or DM beetlebug. They are very busy.
         If you need to contact them about a business matter, please use beetleboyinbox@gmail.com
       
-      
       - These rules apply to non-message mediums as well. This includes nicknames, avatars, Discord bios, 
         and custom/rich statuses. Manually changing nicknames has been disabled to prevent hoisting. 
-        If you'd like to request a nickname you can use <@876278900836139008>'s `/nickname request` command.
-      
+        If you'd like to request a nickname you can use <@876278900836139008>'s </nickname request:978380290173055007> command.
       
       - If you have been subject to a moderation action you'd like to appeal, please DM one of our <@&1030505192858341467>.
-      
       
       - If you have any feedback about these rules, or the server in general, 
         please let us know in <#1030479838500376657>
@@ -77,9 +74,17 @@
     - title: Reporting
       color: 0x5865F2
       description: >
-        To report rule breaking, please mention the <@&1030489835745587291> role. 
-        You may also right click or long press on a message, navigate to the apps menu, 
-        and select the `Report` option. In addition, you can <#1030479861724237974>. 
+        To report rule breaking behavior, you have several options:
+        
+        - Mention the <@&1030489835745587291> role. This is great for things requiring immediate action.
+        
+        - Right click or long press on a message, navigate to the apps menu, and select the `Report` option. 
+        This will mention the mod team in a private channel, and we will investigate and get back to you.
+        
+        - Use </manual-report:944104061484007469>. This works the same as the above option.
+        
+        - Open a ticket with our mod team via <#1030479861724237974>
+        
         Please do not DM individual moderators about rule breaking behavior. 
         If you have a concern with a moderator's behavior, DM one of our <@&1030505192858341467>. 
         Any private reports will be treated confidentially.
@@ -118,9 +123,31 @@
 
 - type: roles
 
+  id: community-roles
+
+  title: "Community Role Selection"
+  description: "Click the button below to add or remove any of the following community-related roles. 
+  If you have feedback on these roles, please tell us in <#1030479838500376657>"
+  template: "{EMOJI} **{NAME}**: {DESCRIPTION}\n"
+
+  roles:
+    1038986553562767441:
+      description: "Select this role to get pinged for beetlebug related news, such as videos."
+      emoji: "📢"
+
+    1038986632663158784:
+      description: "Select this role to get pinged for news related to the matchbox, such as server events."
+      emoji: "📢"
+
+    1038986745187938384:
+      description: "Select this role to let others know you're communicating using a translator."
+      emoji: "🌐"
+
+- type: roles
+
   id: pronoun-roles
 
-  title: "Pronoun Selection"
+  title: "Pronoun Role Selection"
   description: "Click the button below to add or remove any of the following pronoun roles. 
   If you would like another pronoun role added, please tell us in <#1030479838500376657>"
   template: "**{NAME}**: {DESCRIPTION}\n"
@@ -164,3 +191,6 @@
     YouTube: https://www.youtube.com/channel/UCJFS6lubqFVzNH-S3Z4A96Q
     TikTok: https://tiktok.com/@beetlebugyt
     Discord: https://discord.gg/Sc8KTWS4BZ
+
+- type: text
+  text: https://discord.gg/Sc8KTWS4BZ
