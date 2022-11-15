@@ -119,6 +119,21 @@
         make use of it. To those using PluralKit, we recommend that you put your system tag into your display name, 
         to make things easier to understand. 
 
+- type: embed
+  embeds:
+    - title: Tone tags
+      color: 0x5865F2
+      description: >
+        You may see people using a variety of tone tags in this server. Tone can be difficult to convey over text,
+        so tone tags provide valuable social cues. This is especially helpful for the many neurodivergent people
+        who have a hard time determining tone. Please do not use tone tags as a joke. Mocking those who use or
+        need tone tags is unacceptable.
+        
+        
+        If you're curious to learn more about tone tags, or are looking
+        for a master list of all tone tags, you can visit 
+        [toneindicators.carrd.co](https://toneindicators.carrd.co/#masterlist)
+
 - type: roles
 
   id: community-roles
