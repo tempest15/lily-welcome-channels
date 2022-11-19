@@ -134,6 +134,21 @@
         for a master list of all tone tags, you can visit 
         [toneindicators.carrd.co](https://toneindicators.carrd.co/#masterlist)
 
+- type: links
+
+  title: Relevant beetlebug links
+
+  links:
+    Link tree: https://linktr.ee/auribug
+    Twitter: https://twitter.com/auribug
+    Instagram: https://instagram.com/auribug
+    Spotify: https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM?si=p4SidiNdQoeMBygOkvIrkQ
+    Soundcloud: https://soundcloud.com/user-429426833
+    Apple Music: https://music.apple.com/gb/artist/beetlebug/1499874859
+    YouTube: https://www.youtube.com/channel/UCJFS6lubqFVzNH-S3Z4A96Q
+    TikTok: https://tiktok.com/@beetlebugyt
+    Discord: https://discord.gg/JFGXuYgXmc
+
 - type: roles
 
   id: community-roles
@@ -198,21 +213,6 @@
 
     1036446197306642433:
       description: "Alice is a member of a plural system, so I looked on PluralKit to see Alice's pronouns"
-
-- type: links
-
-  title: Relevant beetlebug links
-
-  links:
-    Link tree: https://linktr.ee/auribug
-    Twitter: https://twitter.com/auribug
-    Instagram: https://instagram.com/auribug
-    Spotify: https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM?si=p4SidiNdQoeMBygOkvIrkQ
-    Soundcloud: https://soundcloud.com/user-429426833
-    Apple Music: https://music.apple.com/gb/artist/beetlebug/1499874859
-    YouTube: https://www.youtube.com/channel/UCJFS6lubqFVzNH-S3Z4A96Q
-    TikTok: https://tiktok.com/@beetlebugyt
-    Discord: https://discord.gg/JFGXuYgXmc
 
 - type: text
   text: https://discord.gg/JFGXuYgXmc
