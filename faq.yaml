@@ -3,7 +3,7 @@
     - title: Frequently Asked Questions
       description: >
         This is a selection of various questions that are frequently asked. 
-        If you still have questions after reading, please ask in <#1030479838500376657>
+        If you still have questions after reading, please ask in <#1030479838500376657>.
 
 - type: embed
   embeds:
@@ -19,6 +19,7 @@
         Color roles are inaccessible, and we'd like it to be very clear at a glance who our mod team are.
         We've put a lot of thought into making sure the colored roles we do have are distinct. 
         In addition, by coloring or adding icons to pronoun roles we'd have to sort one above the other.
+        
         
         The color roles available to users not on our staff team are gained either by boosting the server or 
         contributing significant art to the server.
@@ -36,11 +37,13 @@
     - title: Why doesn't the sever have a venting channel, politics channel, or meme channel?
       description: >
         These channels are staples of many Discord communities, but we've made the intentional choice to not have them
-        in the matchbox. You can read about venting in <#1036441120789508206>. 
+        in the matchbox. You can read about venting and other sensitive topics in <#1036441120789508206>. 
+        
         
         Politics tend to be a very inflammatory topic, and the previous matchbox encountered this issue.
         Politics channels are difficult to moderate, and this server has no relation to politics.
         However, human rights are not political, and we stand in support of historically marginalized communities.
+
 
         We don't have a meme channel for similar reasons. Memes devoid of context tend to slip into areas of humor
         that are not appropriate for the matchbox. We're not asking you to avoid memes in conversations, 
@@ -70,14 +73,16 @@
         - LilyBot (<@876278900836139008>) is a general-purpose bot developed by <@554057150066982937> to provide 
         utility and moderation tools.
         
-        - PluralKit (@466378653216014359) is an accessibility tool for members of plural systems. You can find more 
+        - PluralKit (<@466378653216014359>) is an accessibility tool for members of plural systems. You can find more 
         info on it in <#1036441120789508206>. 
         
-        - SoundCloud (@890343617762304070) is the official Discord bot of SoundCloud and allows users to play
+        - SoundCloud (<@890343617762304070>) is the official Discord bot of SoundCloud and allows users to play
         the vast majority of tracks on SoundCloud. You can read more below on why we've chosen this particular
         music bot.
         
         - TweetShift (<@713026372142104687>) is a Twitter feed bot that allows us to have <#1030479317785915465>.
+        
+        
         
         There are a handful of bots that we've specifically chosen not to use: 
       
