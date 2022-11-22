@@ -58,6 +58,7 @@
 - type: embed
   embeds:
     - title: Reporting
+      color: 0x5865F2
       description: >
         Please do not ping or DM beetlebug. They are very busy. If you need to contact them about a business matter, 
         please use beetleboyinbox@gmail.com
