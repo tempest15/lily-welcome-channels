@@ -60,7 +60,7 @@
   embeds:
     - title: My favorite bot isn't here! What bots does the matchbox use and why?
       description: >
-        We make use of 5 bots: 
+        We make use of 6 bots: 
         
         - Matchbox Modmail (<@1039564311196082257>) is an instance of 
         [Dragory's Modmail](https://github.com/Dragory/modmailbot) that we run. DM it to contact our mod team.
@@ -89,10 +89,10 @@
         There are no rewards for talking more other than getting to be part of the community.
         Send messages when you have something to say.
         
-        - Starboard bots tend to result in people aiming to end up on the starboard. They also create unhealthy
-        competition over number of stars earned, or potential hurt feelings. 
-        This is the same reason we don't have a quotes channel. If you enjoy something, 
-        express that appreciation with words or reactions.
+        - Starboard bots tend to result in people aiming to end up on the starboard. They create unhealthy
+        competition over number of stars earned, or potential hurt feelings. People also are unable to opt out
+        if they don't want their messages included. These are the same reasons we don't have a quotes channel. 
+        If you enjoy something, express that appreciation with words or reactions.
 
 - type: embed
   embeds:
