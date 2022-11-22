@@ -9,11 +9,9 @@
 
         Please make sure you have read and understood the rules and information below before 
         continuing to the rest of the server. These rules are primarily based on the rules of 
-        [The Quilt Community](https://quiltmc.org/en/community/rules/).
-        
-        
-        **Not knowing the rules is not an excuse to break them.** If you have any confusion about the rules,
-        please ask in <#1030479838500376657>
+        [The Quilt Community](https://quiltmc.org/en/community/rules/). 
+        These rules apply to non-message medium including nicknames, avatars, Discord bios, and custom/rich statuses.
+        If you have any questions or feedback about these rules, please let us know in <#1030479838500376657>.
 
 - type: text
   text: https://cdn.discordapp.com/attachments/1030561801848496258/1036442844480667688/matchbox-rules.jpg
@@ -56,22 +54,15 @@
       In order to do this, it’s important that people are allowed to interact without having to worry about 
       controversies from other communities that they may be seeking refuge from. If you’d like to discuss 
       controversies with other users, start a DM group or join a community that’s designed to handle that discussion.
-    Additional notes: >
-      - Please do not ping or DM beetlebug. They are very busy. If you need to contact them about a business matter, please use beetleboyinbox@gmail.com
-      
-      - These rules apply to non-message mediums as well. This includes nicknames, avatars, Discord bios, and custom/rich statuses. Manually changing nicknames has been disabled to prevent hoisting. If you'd like to request a nickname you can use <@876278900836139008>'s </nickname request:978380290173055007> command.
-      
-      - If you have been subject to a moderation action you'd like to appeal, please DM <@1039564311196082257>.
-      
-      - If you have any feedback about these rules, or the server in general, please let us know in <#1030479838500376657>
-      
-      - We're not currently accepting applications for moderator or any other staff position.
 
 - type: embed
   embeds:
     - title: Reporting
-      color: 0x5865F2
       description: >
+        Please do not ping or DM beetlebug. They are very busy. If you need to contact them about a business matter, 
+        please use beetleboyinbox@gmail.com
+        
+        
         To report rule breaking behavior, you have several options:
         
         - Mention the <@&1030489835745587291> role. This is great for things requiring immediate action.
@@ -81,7 +72,10 @@
         
         - Use </manual-report:944104061484007469>. This works the same as the above option.
         
-        - Contact our mod team by sending a direct message to <@1039564311196082257>. This is good for longer discussions, or ones that need to be private.
+        - Contact our mod team by sending a direct message to <@1039564311196082257>. 
+        This is good for longer discussions, or ones that need to be private.
+        If the bot is down, please ping <@554057150066982937>. If you have a critical issue while the bot is down, 
+        DM one of our <@&1030505192858341467>.
         
         Please do not DM individual moderators about rule breaking behavior. 
         If you have a concern with a moderator's behavior, DM one of our <@&1030505192858341467>. 
@@ -100,7 +94,9 @@
         
         However, you don't have to struggle alone. You may absolutely ask if someone is willing to DM about an 
         issue you are facing. You can find additional mental health resources at https://checkpointorg.com/global/ and 
-        https://thehaven.support/. If you have additional resources you'd like us to link here, please share them.
+        https://thehaven.support/. A list of suicide support hotlines around the world is at 
+        https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines.
+        If you have additional resources you'd like us to link here, please share them in <#1030479838500376657>.
 
 - type: embed
   embeds:
