@@ -63,7 +63,7 @@
   embeds:
     - title: My favorite bot isn't here! What bots does the matchbox use and why?
       description: >
-        We make use of 6 bots: 
+        We make use of 7 bots: 
         
         - Matchbox Modmail (<@1039564311196082257>) is an instance of 
         [Dragory's Modmail](https://github.com/Dragory/modmailbot) that we run. DM it to contact our mod team.
@@ -79,6 +79,8 @@
         - SoundCloud (<@890343617762304070>) is the official Discord bot of SoundCloud and allows users to play
         the vast majority of tracks on SoundCloud. You can read more below on why we've chosen this particular
         music bot.
+        
+        - TeXit (<@510789298321096704>) allows for rendering of complex math equations using LaTeX.
         
         - TweetShift (<@713026372142104687>) is a Twitter feed bot that allows us to have <#1030479317785915465>.
         
