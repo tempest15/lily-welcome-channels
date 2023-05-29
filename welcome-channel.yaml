@@ -164,6 +164,10 @@
       description: "Select this role to get pinged for news related to the matchbox, such as server events."
       emoji: "📢"
 
+    1112770705520590858:
+      description: "Select this role to get pinged when we do art prompts!"
+      emoji: "🎨"
+
     1038986745187938384:
       description: "Select this role to let others know you're communicating using a translator."
       emoji: "🌐"
