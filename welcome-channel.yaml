@@ -177,48 +177,5 @@
       description: "Select this role to let others know you're communicating using a translator."
       emoji: "🌐"
 
-- type: roles
-
-  id: pronoun-roles
-
-  title: "Pronoun Role Selection"
-  description: "Click the button below to add or remove any of the following pronoun roles. 
-  If you would like another pronoun role added, please tell us in <#1030479838500376657>"
-  template: "**{NAME}**: {DESCRIPTION}\n"
-
-  roles:
-    1030941411387920414:
-      description: "He let me play his guitar."
-
-    1030941412394553474:
-      description: "She drew me a lovely flower with her markers"
-
-    1030941413443113000:
-      description: "They showed me a cool picture of a frog on their phone"
-
-    1030941414437163058:
-      description: "It handed me a lovely flower from its bag"
-
-    1039178789642567801:
-      description: "Fae and I went swimming by faer school"
-
-    1039179098783744020:
-      description: "Xe let me pet xyr cat"
-
-    1039178837323432056:
-      description: "Ze let me hold hir pet lizard"
-
-    1030941415431221379:
-      description: "Alice and I played Minecraft at Alice's house with Alice's sibling"
-
-    1030941416236523551:
-      description: "Fae and I took a ride in eir car to his house"
-
-    1030941417536757760:
-      description: "I asked Alice what Alice's pronouns are and Alice said she/her"
-
-    1036446197306642433:
-      description: "Alice is a member of a plural system, so I looked on PluralKit to see Alice's pronouns"
-
 - type: text
   text: https://discord.gg/JFGXuYgXmc
